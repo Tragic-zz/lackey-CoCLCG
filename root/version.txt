@@ -1,0 +1,16 @@
+<version>
+
+<lastupdateYYMMDD>170607</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>http://theblathering.5gbfree.com/CoC-LCG/Update/version.txt</versionurl>
+<updateurl>http://theblathering.5gbfree.com/CoC-LCG/Update/updatelist.txt</updateurl>
+<message>
+
+New UI
+All cards rescanned higher rez
+All errata edited in photoshop onto the cards
+All restricted cards havce had a small watermark added.
+
+</message>
+
+</version>

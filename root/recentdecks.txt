@@ -1,0 +1,6 @@
+RECENTDECK0:TestDeck.dek
+RECENTDECK1:.story.LCG-Secrets.of.Arkham.dek
+RECENTDECK2:.story.LCG-Core.Set.dek
+RECENTDECK3:.story.LCG-Ancient.Relics.dek
+RECENTDECK4:.story.CCG-Eldritch.Edition.dek
+RECENTDECK5:.story-ALL.dek

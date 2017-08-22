@@ -1,0 +1,19 @@
+<deck version="0.8">
+	<meta>
+		<game>CoC_LCG_Final</game>
+	</meta>
+	<superzone name="Story">
+		<card><name id="s21s01.png">The Opened Door</name><set>Stories</set></card>
+		<card><name id="s22s02.png">The 9th Plague</name><set>Stories</set></card>
+		<card><name id="s23s03.png">The Second Dragon</name><set>Stories</set></card>
+		<card><name id="s24s04.png">Within the Ice</name><set>Stories</set></card>
+		<card><name id="s25s05.png">Come the Dreamtime</name><set>Stories</set></card>
+		<card><name id="s26s06.png">Heart of the Labyrinth</name><set>Stories</set></card>
+		<card><name id="s27s07.png">Congress of the Keys</name><set>Stories</set></card>
+		<card><name id="s28s08.png">Chaos Unleashed</name><set>Stories</set></card>
+		<card><name id="s29s09.png">Village of Ash</name><set>Stories</set></card>
+		<card><name id="s30s10.png">A New Challenge</name><set>Stories</set></card>
+		<card><name id="s31s11.png">The Heirloom</name><set>Stories</set></card>
+		<card><name id="s32s12-E.png">The Seventh Gate</name><set>Stories</set></card>
+	</superzone>
+</deck>

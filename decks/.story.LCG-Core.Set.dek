@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>CoC_LCG_Final</game>
+	</meta>
+	<superzone name="Story">
+		<card><name id="s01c156.png">Nowhere to Hide</name><set>Stories</set></card>
+		<card><name id="s02c157.png">The Shadow out of Time</name><set>Stories</set></card>
+		<card><name id="s03c158.png">Opening Night</name><set>Stories</set></card>
+		<card><name id="s04c159.png">Ancient Apocrypha</name><set>Stories</set></card>
+		<card><name id="s05c160.png">The Call of Cthulhu</name><set>Stories</set></card>
+		<card><name id="s06c161.png">Through the Gates</name><set>Stories</set></card>
+		<card><name id="s07c162.png">Rotting Away</name><set>Stories</set></card>
+		<card><name id="s08c163-E.png">Frozen in Time</name><set>Stories</set></card>
+		<card><name id="s09c164.png">Dreamwalkers</name><set>Stories</set></card>
+		<card><name id="s10c165.png">The Other Path</name><set>Stories</set></card>
+	</superzone>
+</deck>

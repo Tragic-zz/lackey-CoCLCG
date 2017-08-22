@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>CoC_LCG_Final</game>
+	</meta>
+	<superzone name="Story">
+		<card><name id="s01c156.png">Nowhere to Hide</name><set>Stories</set></card>
+		<card><name id="s02c157.png">The Shadow out of Time</name><set>Stories</set></card>
+		<card><name id="s03c158.png">Opening Night</name><set>Stories</set></card>
+		<card><name id="s04c159.png">Ancient Apocrypha</name><set>Stories</set></card>
+		<card><name id="s05c160.png">The Call of Cthulhu</name><set>Stories</set></card>
+		<card><name id="s06c161.png">Through the Gates</name><set>Stories</set></card>
+		<card><name id="s07c162.png">Rotting Away</name><set>Stories</set></card>
+		<card><name id="s08c163-E.png">Frozen in Time</name><set>Stories</set></card>
+		<card><name id="s09c164.png">Dreamwalkers</name><set>Stories</set></card>
+		<card><name id="s10c165.png">The Other Path</name><set>Stories</set></card>
+		<card><name id="s11a51.png">The Secrets of Arkham</name><set>Stories</set></card>
+		<card><name id="s12a52.png">They Come at Night</name><set>Stories</set></card>
+		<card><name id="s13a53.png">Obsessive Research</name><set>Stories</set></card>
+		<card><name id="s14a54.png">Change of Plans</name><set>Stories</set></card>
+		<card><name id="s15a55.png">The Terror out of Dunwich</name><set>Stories</set></card>
+		<card><name id="s16a56.png">The Innsmouth Threat</name><set>Stories</set></card>
+		<card><name id="s17a57.png">The Thing at the Gate</name><set>Stories</set></card>
+		<card><name id="s18a58.png">The Secret of the North Woods</name><set>Stories</set></card>
+		<card><name id="s19a59.png">The Dreams of Kingsport</name><set>Stories</set></card>
+		<card><name id="s20a60.png">The Well</name><set>Stories</set></card>
+		<card><name id="s21s01.png">The Opened Door</name><set>Stories</set></card>
+		<card><name id="s22s02.png">The 9th Plague</name><set>Stories</set></card>
+		<card><name id="s23s03.png">The Second Dragon</name><set>Stories</set></card>
+		<card><name id="s24s04.png">Within the Ice</name><set>Stories</set></card>
+		<card><name id="s25s05.png">Come the Dreamtime</name><set>Stories</set></card>
+		<card><name id="s26s06.png">Heart of the Labyrinth</name><set>Stories</set></card>
+		<card><name id="s27s07.png">Congress of the Keys</name><set>Stories</set></card>
+		<card><name id="s28s08.png">Chaos Unleashed</name><set>Stories</set></card>
+		<card><name id="s29s09.png">Village of Ash</name><set>Stories</set></card>
+		<card><name id="s30s10.png">A New Challenge</name><set>Stories</set></card>
+		<card><name id="s31s11.png">The Heirloom</name><set>Stories</set></card>
+		<card><name id="s32s12-E.png">The Seventh Gate</name><set>Stories</set></card>
+		<card><name id="s33Drt07.png">Crack in the Ice</name><set>Stories</set></card>
+		<card><name id="s33Drt07.png">The Nameless City</name><set>Stories</set></card>
+		<card><name id="s36p11.png">The Challenge from Beyond</name><set>Stories</set></card>
+		<card><name id="s37ae02.png">The Horror of the Past</name><set>Stories</set></card>
+		<card><name id="s38ae03.png">The Arkham Willows</name><set>Stories</set></card>
+		<card><name id="s39ae04.png">The Forgotten Sepulchre</name><set>Stories</set></card>
+		<card><name id="s40ae10.png">The Crooked Manse</name><set>Stories</set></card>
+		<card><name id="s41ee241.png">Abysses of Night</name><set>Stories</set></card>
+		<card><name id="s42ee242.png">Beyond the Doors of Sleep</name><set>Stories</set></card>
+		<card><name id="s43ee243.png">Digging Deep</name><set>Stories</set></card>
+		<card><name id="s44ee244.png">Dark Heart of Cairo</name><set>Stories</set></card>
+		<card><name id="s45ee245.png">Parables of the Faceless One</name><set>Stories</set></card>
+		<card><name id="s46ee246.png">Shadows of Nephren-Ka</name><set>Stories</set></card>
+		<card><name id="s47ee247.png">The Squalid Hamlet</name><set>Stories</set></card>
+		<card><name id="s48ee248.png">The Unquiet Earth</name><set>Stories</set></card>
+		<card><name id="s49ee249.png">Throne of the Black Pharaoh</name><set>Stories</set></card>
+		<card><name id="s50ee250.png">Voice of Thunder</name><set>Stories</set></card>
+	</superzone>
+</deck>

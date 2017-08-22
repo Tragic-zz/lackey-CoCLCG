@@ -1,0 +1,91 @@
+<pluginpreferences>
+
+<lastversionupdate>131118</lastversionupdate>
+<lastuninstalldate>121122</lastuninstalldate>
+<counterstyle>0</counterstyle>
+<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>23</counterstyleimagesizeimagesonly>
+<recentskins>Cthulhu</recentskins>
+<recentskins>default</recentskins>
+<recenttablebackgrounds>Cthulhu_background_v4.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>Cthulhu_zonebackground_v3.jpg</recentzonebackgrounds>
+<canned>/draw1</canned>
+<canned>/draw2</canned>
+<canned>!180!/cardfunction1;/cardfunction10</canned>
+<canned>!90!/cardfunction1;/cardfunction10</canned>
+<canned>!First player!/playerchoose</canned>
+<canned>Wait</canned>
+<canned>Go Ahead</canned>
+<canned>Done?</canned>
+<canned>Pass</canned>
+<canned>at the end of your turn</canned>
+<canned>Good game</canned>
+<canned>/clear</canned>
+<canned>/screenshot</canned>
+<canned>/fullscreen</canned>
+<canned>!Save!/save 1</canned>
+<canned>!Load!/load 1</canned>
+<canned>/draw8</canned>
+<canned>!Mulligan!/f4;/f4;/f4;/f4;/f4;/f4;/f4;/f4;/shuffle 2;/shuffle 2;/draw8</canned>
+<canned>Good game.</canned>
+<canned>/roll</canned>
+<tokens>Investigation</tokens>
+<tokens>Domain Drain</tokens>
+<fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
+<fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind0pos2>Amaranth.ttf</fontkind0pos2>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind1pos2>Amaranth.ttf</fontkind1pos2>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind2pos2>Amaranth.ttf</fontkind2pos2>
+<fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
+<fontkind3pos1>times.ttf</fontkind3pos1>
+<fontkind3pos2>Amaranth.ttf</fontkind3pos2>
+<fontsize0>12</fontsize0>
+<fontsize1>11</fontsize1>
+<fontsize2>11</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CTRL+h</bindingmain0>
+<bindingmain1>CTRL+j</bindingmain1>
+<bindingmain4>CTRL+n</bindingmain4>
+<bindingmain5>CTRL+s</bindingmain5>
+<bindingmain6>CTRL+l</bindingmain6>
+<bindingmain9>CTRL+f</bindingmain9>
+<bindingmain15>CTRL+SHIFT+s</bindingmain15>
+<bindinggeneral0>CTRL+ALT+1</bindinggeneral0>
+<bindinggeneral1>CTRL+ALT+2</bindinggeneral1>
+<bindinggeneral2>CTRL+LEFTBRACKET</bindinggeneral2>
+<bindinggeneral3>CTRL+RIGHTBRACKET</bindinggeneral3>
+<bindinggeneral4>CTRL+ALT+3</bindinggeneral4>
+<bindinggeneral5>CTRL+ALT+4</bindinggeneral5>
+<bindinggeneral6>CTRL+ALT+5</bindinggeneral6>
+<bindinggeneral7>ALT+f</bindinggeneral7>
+<bindingcard0>SHIFT+LESS</bindingcard0>
+<bindingcard1>LESS</bindingcard1>
+<bindingcard2>ALT+q</bindingcard2>
+<bindingcard4>z</bindingcard4>
+<bindingcard5>SHIFT+z</bindingcard5>
+<bindingcard6>ALT+e</bindingcard6>
+<bindingcard7>F10</bindingcard7>
+<bindingcard8>F9</bindingcard8>
+<bindingcard9>F12</bindingcard9>
+<bindingcard10>F11</bindingcard10>
+<bindingcanned0>CTRL+1</bindingcanned0>
+<bindingcanned1>CTRL+2</bindingcanned1>
+<bindingcanned2>CTRL+3</bindingcanned2>
+<bindingcanned3>CTRL+4</bindingcanned3>
+<bindingcanned4>CTRL+5</bindingcanned4>
+<bindingcanned5>CTRL+6</bindingcanned5>
+<bindingcanned6>CTRL+7</bindingcanned6>
+<bindingcanned7>CTRL+8</bindingcanned7>
+<bindingcanned8>CTRL+9</bindingcanned8>
+<filterkeystroke>1</filterkeystroke>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
+<scalefactor>1.000000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>

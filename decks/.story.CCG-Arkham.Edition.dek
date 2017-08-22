@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>CoC_LCG_Final</game>
+	</meta>
+	<superzone name="Story">
+		<card><name id="s37ae02.png">The Horror of the Past</name><set>Stories</set></card>
+		<card><name id="s38ae03.png">The Arkham Willows</name><set>Stories</set></card>
+		<card><name id="s39ae04.png">The Forgotten Sepulchre</name><set>Stories</set></card>
+		<card><name id="s40ae10.png">The Crooked Manse</name><set>Stories</set></card>
+		<card><name id="s51ae01.png">The Dreams of Kingsport (CCG)</name><set>Stories</set></card>
+		<card><name id="s52ae05.png">The Thing at the Gate (CCG)</name><set>Stories</set></card>
+		<card><name id="s53ae06.png">The Secret of the North Woods (CCG)</name><set>Stories</set></card>
+		<card><name id="s54ae07.png">The Innsmouth Threat (CCG)</name><set>Stories</set></card>
+		<card><name id="s55ae08.png">The Terror out of Dunwich (CCG)</name><set>Stories</set></card>
+		<card><name id="s56ae09.png">The Well (CCG)</name><set>Stories</set></card>
+	</superzone>
+</deck>

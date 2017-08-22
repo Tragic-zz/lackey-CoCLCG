@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>CoC_LCG_Final</game>
+	</meta>
+	<superzone name="Story">
+		<card><name id="s41ee241.png">Abysses of Night</name><set>Stories</set></card>
+		<card><name id="s42ee242.png">Beyond the Doors of Sleep</name><set>Stories</set></card>
+		<card><name id="s43ee243.png">Digging Deep</name><set>Stories</set></card>
+		<card><name id="s44ee244.png">Dark Heart of Cairo</name><set>Stories</set></card>
+		<card><name id="s45ee245.png">Parables of the Faceless One</name><set>Stories</set></card>
+		<card><name id="s46ee246.png">Shadows of Nephren-Ka</name><set>Stories</set></card>
+		<card><name id="s47ee247.png">The Squalid Hamlet</name><set>Stories</set></card>
+		<card><name id="s48ee248.png">The Unquiet Earth</name><set>Stories</set></card>
+		<card><name id="s49ee249.png">Throne of the Black Pharaoh</name><set>Stories</set></card>
+		<card><name id="s50ee250.png">Voice of Thunder</name><set>Stories</set></card>
+	</superzone>
+</deck>
