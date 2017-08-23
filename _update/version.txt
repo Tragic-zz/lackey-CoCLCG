@@ -2,8 +2,8 @@
 
 <lastupdateYYMMDD>170823</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/Tragic-zz/CoC_LCG_LackeyCCG/master/_update/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/Tragic-zz/CoC_LCG_LackeyCCG/master/_update/updatelist.txt</updateurl>
+<versionurl>https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/_update/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/_update/updatelist.txt</updateurl>
 <message>
 
 Project moved to GITHUB. I think this will be stable?
