@@ -1,5 +1,5 @@
-CoC_LCG	06-07-17	
-plugins/CoC_LCG/version.txt	https://cdn.rawgit.com/Tragic-zz/lackey-CoCLCG/d0a42afe/_update/version.txt	38223
+CoC_LCG	06-07-17
+plugins/CoC_LCG/version.txt	https://cdn.rawgit.com/Tragic-zz/lackey-CoCLCG/d0a42afe/_update/version.txt	36097
 plugins/CoC_LCG/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/root/ListOfCardDataFiles.txt	8901
 plugins/CoC_LCG/bot.jpg	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/root/bot.jpg	-37824
 plugins/CoC_LCG/plugininfo.txt	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/root/plugininfo.txt	526281
