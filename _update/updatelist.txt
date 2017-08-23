@@ -48,7 +48,7 @@ plugins/CoC_LCG/images/interface/button-arrow-right-default.png	https://raw.gith
 plugins/CoC_LCG/images/interface/button-arrow-up-default-mouseover.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-arrow-up-default-mouseover.png	-4248
 plugins/CoC_LCG/images/interface/button-arrow-up-default.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-arrow-up-default.png	-291
 plugins/CoC_LCG/images/interface/button-check-default.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-check-default.png	-757
-plugins/CoC_LCG/images/interface/button-check-inactive.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-check-inactive.png	-11441
+plugins/CoC_LCG/images/interface/button-check-inactive.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/images/interface/button-check-inactive.png	-11441
 plugins/CoC_LCG/images/interface/button-check-selected.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-check-selected.png	-6569
 plugins/CoC_LCG/images/interface/button-collapse-minus.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-collapse-minus.png	-4143
 plugins/CoC_LCG/images/interface/button-collapse-plus.png	https://raw.githubusercontent.com/Tragic-zz/lackey-CoCLCG/master/images/interface/button-collapse-plus.png	-3757
